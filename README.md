@@ -71,14 +71,14 @@ Para sair, escolha 0.
 
 Este é meu **primeiro projeto em Python**. Inicialmente, eu não conhecia o conceito de **CRUD** (Create, Read, Update, Delete), mas decidi criar este sistema de cadastro de pessoas para praticar tudo o que aprendi no curso **"Python: Crie a sua primeira aplicação" da Alura**.
 
-### Principais aprendizados
+### Meus principais aprendizados
 
 - Eu entendi na prática como funciona um CRUD, manipulando dados de usuários: adicionei, listei, busquei, atualizei e removi registros.  
 - Eu Aprendi a trabalhar com listas e dicionários, entendendo a diferença entre eles e como armazenar múltiplos registros de forma organizada.  
 - Eu Aprendi a usar métodos importantes como .lower(), .strip() e .isdigit() para validar e tratar dados de entrada.  
 - Eu Ganhei experiência em estruturar um menu interativo no terminal e controlar o fluxo do programa de forma lógica e segura.
 
-### Principais dificuldades
+### Minhas principais dificuldades
 
 - Manipulação de listas e dicionários: no início, não sabia exatamente como adicionar, acessar ou remover dados corretamente.
 - Validação de dados: garantir que nomes não aceitem números, que emails não sejam duplicados e que idades sejam números válidos.
